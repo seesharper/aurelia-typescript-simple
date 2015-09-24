@@ -1,0 +1,20 @@
+{
+	"compilerOptions": {
+		"target": "ES5",
+		"module": "amd",
+		"noImplicitAny": true,
+		"experimentalDecorators": true,
+		"emitDecoratorMetadata": true
+	},
+	"files": [
+		"./jspm_packages/github/aurelia/router@0.12.0/aurelia-router.d.ts",
+		"./src/app.ts",
+		"./src/helloworld.ts",
+		"./src/nav-bar.ts",
+		"./jspm_packages/github/aurelia/framework@0.16.0/aurelia-framework.d.ts",
+		"./jspm_packages/github/aurelia/binding@0.9.1/aurelia-binding.d.ts",
+		"./jspm_packages/github/aurelia/templating-binding@0.15.0/aurelia-templating-binding.d.ts",
+		"./jspm_packages/github/aurelia/templating@0.15.3/aurelia-templating.d.ts",
+		"./src/anotherpage.ts"		
+	]
+}
