@@ -177,7 +177,7 @@ Now we only need the actual view that is going to be displayed in the browser so
 </template>
 ```
 
-All views in Aurelia starts with the Template tag and further on we can see that we display a header that is binded to the message field of our view-model (helloworld.ts).
+All views in Aurelia starts with the Template tag and further on we can see that we display a header that is bound to the message field of our view-model (helloworld.ts).
 
 That's it, we are pretty much done with our first Aurelia application written in TypeScript.
 
