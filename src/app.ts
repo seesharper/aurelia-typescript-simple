@@ -7,7 +7,8 @@ export class App {
     config.title = 'Aurelia';
     config.map([
         { route: ['','helloworld'],  name: 'helloworld',      moduleId: 'helloworld',      nav: true, title:'Hello world' },     
-        { route: 'anotherpage',  name: 'anotherpage',      moduleId: 'anotherpage',      nav: true, title:'anotherpage' }
+        { route: 'anotherpage',  name: 'anotherpage',      moduleId: 'anotherpage',      nav: true, title:'Anotherpage' },
+        { route: 'fibonacci',  name: 'fibonacci',      moduleId: 'fibonacci',      nav: true, title:'Fibonacci' }
       ]);    
     this.router = router;
   }

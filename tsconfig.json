@@ -15,6 +15,7 @@
 		"./jspm_packages/github/aurelia/binding@0.9.1/aurelia-binding.d.ts",
 		"./jspm_packages/github/aurelia/templating-binding@0.15.0/aurelia-templating-binding.d.ts",
 		"./jspm_packages/github/aurelia/templating@0.15.3/aurelia-templating.d.ts",
-		"./src/anotherpage.ts"		
+		"./src/anotherpage.ts",
+		"./src/fibonacci.ts"		
 	]
 }

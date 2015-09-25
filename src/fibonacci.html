@@ -1,0 +1,14 @@
+<template>	    
+    <section>
+      <h2>Fibonacci</h2>
+    <form>    
+      <div class="form-group">        
+        <input class="form-control" type="number" id="index" value.bind="index" placeholder="Enter number">          
+      </div>                  
+      <button type="submit" class="btn btn-primary" click.trigger="calculateFibonacciNumber()">Submit</button>
+      <div class="form-group">
+        <h3>Result ${fibonacciNumber}</h3>    
+      </div>    
+    </form>
+    </section>      
+</template>
